@@ -1,4 +1,19 @@
-Markdown
+# 📚 My Notes from the IBM Full Stack Developer Course
+
+Hello! In this repository, I track my daily progress in Backend and Web Development training.
+
+---
+
+## 📑 Module 1: Introduction to Computing and the Cloud
+
+### Key Concepts Learned Today
+* **SDLC:** I learned about the SDLC and its components, such as the SRS.
+* **Fundamental Pillars of the SDLC:** I learned about the pillars underpinning a solid SDLC and its phases: Planning, Design, Development (my favorite), Testing, Deployment, and—last but not least—Maintenance.
+* **Documentation:** I understood the importance of good documentation and the weight it carries within a system, as it benefits both the developers building it and the users who will utilize the software.
+
+---
+*Progress updated in July 2026*
+
 # 📚 Mis Apuntes del Curso Full Stack Developer de IBM
 
 ¡Hola! En este repositorio voy registrando mi avance diario en la formación de Backend y Desarrollo Web.
