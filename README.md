@@ -4,7 +4,7 @@ Hello! In this repository, I track my daily progress in Backend and Web Developm
 
 ---
 
-## 📑 Module 1: Introduction to Computing and the Cloud
+## 📑 Module 1: Introduction to Computing and Software Engineering
 
 ### Key Concepts Learned Today
 * **SDLC:** I learned about the SDLC and its components, such as the SRS.
@@ -20,7 +20,7 @@ Hello! In this repository, I track my daily progress in Backend and Web Developm
 
 ---
 
-## 📑 Módulo 1: Introducción a la Informática y la Nube
+## 📑 Módulo 1: Introducción a la Informática y la Ingenieria de Software
 
 ### Conceptos Clave Aprendidos Hoy
 * **SDLC**   Aprendí sobre el SDLC y sus componentes como el SRS
