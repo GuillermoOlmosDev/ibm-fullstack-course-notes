@@ -28,7 +28,7 @@ Markdown
 ## 📜 Certificate / Certificado
 
 <div align="center">
-  <img src="./certificado.png" alt="IBM Software Engineering Certificate" width="750"/>
+  <img src="./course-1-certificate.png" alt="IBM Software Engineering Certificate" width="750"/>
 </div>
 
 * 🎓 **Official Certificate:** Issued by IBM via Coursera.
