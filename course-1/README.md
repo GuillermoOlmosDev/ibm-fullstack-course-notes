@@ -23,3 +23,13 @@ El curso abarca desde los fundamentos teóricos de la Ingeniería de Software y 
 
 ---
 *Maintained by / Notas mantenidas por [GuillermoOlmosDev](https://github.com/GuillermoOlmosDev)*
+---
+Markdown
+## 📜 Certificate / Certificado
+
+<div align="center">
+  <img src="./certificado.png" alt="IBM Software Engineering Certificate" width="750"/>
+</div>
+
+* 🎓 **Official Certificate:** Issued by IBM via Coursera.
+* 🎓 **Certificado Oficial:** Emitido por IBM a través de Coursera.
