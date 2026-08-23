@@ -25,8 +25,8 @@ El curso abarca los fundamentos de frontend: estructuración de páginas web con
   <img src="course-3-certificate.png" alt="IBM Introduction to HTML, CSS & JavaScript Certificate" width="750"/>
 </div>
 
-* 🎓 **Official Certificate:** Issued by IBM via Coursera *(Pending / In Progress)*.
-* 🎓 **Certificado Oficial:** Emitido por IBM a través de Coursera *(Pendiente / En Progreso)*.
+* 🎓 **Official Certificate:** Issued by IBM via Coursera 
+* 🎓 **Certificado Oficial:** Emitido por IBM a través de Coursera 
 
 ---
 *Maintained by / Notas mantenidas por [GuillermoOlmosDev](https://github.com/GuillermoOlmosDev)*
